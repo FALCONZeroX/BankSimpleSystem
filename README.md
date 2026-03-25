@@ -85,9 +85,6 @@ To evolve this project into a more robust application, the following enhancement
 
 ---
 
-
----
-
 ## 👨‍💻 Developed By
 **Falah Fathel (FALCON)**
 * **Year:** 2026
