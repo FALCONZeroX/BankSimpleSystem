@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Bank Management System Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/FALCONZeroX/BankManagementSystem/main/banner.jpg" alt="Bank Management System Banner" width="100%" />
 </p>
 
 # 🏦 Bank Management System FP (Functional Programming) - C++
