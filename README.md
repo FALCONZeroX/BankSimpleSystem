@@ -1,4 +1,4 @@
-# 🏦 Bank Management System - C++
+# 🏦 Bank Management System FP (Functional Programming) - C++
 
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
 ![Year](https://img.shields.io/badge/Year-2026-green)
